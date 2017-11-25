@@ -1,0 +1,14 @@
+{
+  "name": "alexa-skill",
+  "version": "1.0.0",
+  "description": "Creating node file for alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.21"
+  }
+}

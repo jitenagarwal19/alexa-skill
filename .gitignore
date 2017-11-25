@@ -1,0 +1,12 @@
+system-config.js*
+node_modules
+jspm_packages
+bower_components
+
+
+yarn.lock
+.vscode/*
+npm-debug.log
+typings/*
+.DS_Store
+.idea/
